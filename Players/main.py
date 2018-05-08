@@ -74,4 +74,4 @@ blueprint = manager.create_api(Players, methods=['GET', 'POST', 'DELETE','PUT'])
 print(blueprint)
 
 # start the flask loop
-app.run(host='0.0.0.0',port=5500)
+#app.run(host='0.0.0.0',port=5500)
